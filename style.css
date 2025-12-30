@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #4a6283;
+}
+
+.content-1 {
+    background-color: #1f2937;
+}
+
+.content-2 {
+    background-color: #759bcf;
+}
+
+.quote {
+    background-color: #2d3b4f;
+}
+
+.callta {
+    background-color: #2d3b4f;
+}
+
+.footer {
+    background-color: #262626;
+}
