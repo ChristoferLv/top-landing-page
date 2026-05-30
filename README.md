@@ -36,6 +36,10 @@ Uma landing page moderna e responsiva contendo:
 - HTML5
 - CSS3 (com foco em Flexbox)
 
+## Visualization
+
+<img width="1900" height="2264" alt="TOP_Foundations_landing-page_index html" src="https://github.com/user-attachments/assets/da1d877d-4bef-41ec-a807-5dccfe7af6a8" />
+
 ---
 
 Projeto desenvolvido seguindo: [The Odin Project - Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
