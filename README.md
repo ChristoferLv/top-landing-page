@@ -1,6 +1,6 @@
 # Landing Page
 
-Presentation page developed as part of the Foundations path of [Foundations | The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations), with the goal of practicing the concepts learned about **Flexbox**.
+Presentation page developed as part of the [Foundations path of The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations), with the goal of practicing the concepts learned about **Flexbox**.
 
 ## Project Objective
 
