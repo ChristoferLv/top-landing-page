@@ -1,40 +1,40 @@
 # Landing Page
 
-Página de apresentação desenvolvida como parte da trilha Foundations do [The Odin Project](https://www.theodinproject.com/lessons/foundations-landing-page), com a o objetivo de exercitar os conceitos aprendidos sobre **Flexbox**.
+Presentation page developed as part of the Foundations path of [Foundations | The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations), with the goal of practicing the concepts learned about **Flexbox**.
 
-## Objetivo do Projeto
+## Project Objective
 
-O objetivo principal era praticar:
-- Layout com CSS **Flexbox**
-- Estruturação de uma página completa
-- Posicionamento e alinhamento de elementos
-- Criação de componentes visuais atraentes
+The main objective was to practice:
+- Layout with CSS **Flexbox**
+- Structuring a complete webpage
+- Positioning and alignment of elements
+- Building visually attractive components
 
-## O que é?
+## What is it?
 
-Uma landing page moderna e responsiva contendo:
-- Seção hero com call-to-action
-- Seção de informações/recursos
-- Depoimentos ou citações
-- Call-to-action final
+A modern and responsive landing page containing:
+- Hero section with a call-to-action
+- Information/features section
+- Testimonials or quotes
+- Final call-to-action
 
-## Como usar
+## How to use
 
-1. Abra o arquivo `index.html` em seu navegador
+1. Open the `index.html` file in your browser
 
-## Funcionalidades
+## Features
 
-- **Layout Flexbox**: Utiliza Flexbox para posicionamento e alinhamento
-- **Seções Estruturadas**: Hero, informações, depoimentos e call-to-action organizados
-- **Hierarquia Visual**: Tipografia e espaçamentos bem definidos
-- **Componentes Reutilizáveis**: Cards e botões com design consistente
-- **Navegação Clara**: Estrutura intuitiva e fácil de seguir
-- **Visual Moderno**: Design clean e profissional
+- **Flexbox Layout**: Uses Flexbox for positioning and alignment
+- **Structured Sections**: Hero, information, testimonials, and call-to-action organized clearly
+- **Visual Hierarchy**: Well-defined typography and spacing
+- **Reusable Components**: Cards and buttons with consistent design
+- **Clear Navigation**: Intuitive and easy-to-follow structure
+- **Modern Look**: Clean and professional design
 
-## Tecnologias Utilizadas
+## Technologies Used
 
 - HTML5
-- CSS3 (com foco em Flexbox)
+- CSS3 (focused on Flexbox)
 
 ## Visualization
 
@@ -42,6 +42,6 @@ Uma landing page moderna e responsiva contendo:
 
 ---
 
-Projeto desenvolvido seguindo: [The Odin Project - Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
+Project developed following: [The Odin Project - Landing Page](https://www.theodinproject.com/lessons/foundations-landing-page)
 
-📍 **Repositório principal com todos os projetos**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
+📍 **Main repository with all projects**: [ChristoferLv/TheOdinProject](https://github.com/ChristoferLv/TheOdinProject)
